@@ -1,0 +1,7 @@
+Shell有许多种：
+1. sh：全称为Bourne Shell。因为由Steve Bourne开发。Unix都配有最基本的sh。但是在笔者正在使用的Ubuntu16.04中，sh是指向dash的软链接
+1. csh：全称为C Shell。在sh的基础上，加入像C语言的流程控制，还有许多新功能例如：作业控制、命令历史、命令行编辑
+1. ksh：全称为Korn Shell。是许多Unix系统的标配Shell
+1. tcsh：全称为TENEX C Shell。在csh基础上，加入命令补全等功能。在Mac OS上代替csh
+1. bash：全称为Bourne Again Shell。由GNU开发，符合POSIX，向后兼容sh，是许多Linux标配Shell
+
